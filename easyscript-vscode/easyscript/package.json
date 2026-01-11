@@ -15,12 +15,20 @@
       {
         "id": "easyscript",
         "aliases": [
-          "EasyScript"
+          "EasyScript",
+          "easy"
         ],
         "extensions": [
           ".easy"
         ],
         "configuration": "./language-configuration.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "easyscript-icons",
+        "label": "EasyScript Icons",
+        "path": "./fileicons/easyscript-file-icon.json"
       }
     ],
     "grammars": [
@@ -50,5 +58,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Odinaka-123/EasyScript-Vscode.git"
-  }
+  },
+  "icon": "assets/icon.png"
 }

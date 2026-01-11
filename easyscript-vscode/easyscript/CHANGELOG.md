@@ -1,9 +1,9 @@
-# Change Log
+## [0.1.1] – UI & Polish
 
-All notable changes to the "easyscript" extension will be documented in this file.
+### Added
+- Extension icon
+- `.easy` file icon
+- Improved branding for EasyScript
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+### Fixed
+- Minor extension metadata improvements

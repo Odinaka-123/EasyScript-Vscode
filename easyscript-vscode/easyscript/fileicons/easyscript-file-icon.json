@@ -1,0 +1,10 @@
+{
+  "iconDefinitions": {
+    "easy": {
+      "iconPath": "../assets/easy-file.png"
+    }
+  },
+  "fileExtensions": {
+    "easy": "easy"
+  }
+}
