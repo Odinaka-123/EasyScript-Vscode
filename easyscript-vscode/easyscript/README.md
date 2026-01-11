@@ -11,7 +11,7 @@ This is the official VS Code extension for **EasyScripts**, a natural-style Java
 ## Installation
 
 ### From VSIX (local)
-1. Download `easy-scripts-vscode-0.1.0.vsix`.
+1. Download `easy-scripts-vscode-1.1.0.vsix`.
 2. Open VS Code → Extensions → `Install from VSIX`.
 3. Select the `.vsix` file.
 
