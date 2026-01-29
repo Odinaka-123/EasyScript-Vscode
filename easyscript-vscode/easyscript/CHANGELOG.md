@@ -1,4 +1,4 @@
-## [0.1.1] – UI & Polish
+## [0.0.1] – UI & Polish
 
 ### Added
 - Extension icon
